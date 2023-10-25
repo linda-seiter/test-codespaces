@@ -4,9 +4,7 @@
 	"updateContentCommand": "pip install -p Pipfile",
 	"customizations": {
 		"codespaces": {
-			"openFiles": [
-			  "README.md"
-			]
+			"openFiles": ["READEME.md"]
 		  },
 		"vscode": {
 			"extensions": [
